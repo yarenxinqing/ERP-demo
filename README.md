@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ERP项目
 
 这是一个企业资源规划(ERP)系统，包含前端和后端两个主要部分。
@@ -83,4 +83,3 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 945f12828581b8e7386d9c6a563e6ace3aea3e6b
